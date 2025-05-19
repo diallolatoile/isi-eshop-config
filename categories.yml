@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+categories:
+  message: "Welcome to ISI Eshop categories related local APIs "
+  contactDetails:
+    name: "Mamadou Bobo DIALLO - Developer"
+    email: "boboisidk@groupeisi.com"
+  onCallSupport:
+    - 00 221 77 441 94 67
+    - 00 221 76 232 66 46

@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+orders:
+  message: "Welcome to ISI Eshop orders related QA APIs "
+  contactDetails:
+    name: "Mamadou Bobo DIALLO - QA Lead"
+    email: "boboisidk@groupeisi.com"
+  onCallSupport:
+    - 00 221 77 441 94 67
+    - 00 221 76 232 66 46
