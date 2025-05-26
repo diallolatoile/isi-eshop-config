@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 orders:
-  message: "Welcome to ISI Eshop orders related PROD APIs "
+  message: "Welcome to ISI Eshop orders related prod webhook APIs "
   contactDetails:
     name: "Mamadou Bobo DIALLO - Product Owner"
     email: "{cipher}7137133b998119257b9b6ae0f722600d8db9dd69c3e2e2e671fac84fdb832190d709f0fa772eff056d5debb3195b8375"
