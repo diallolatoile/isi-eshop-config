@@ -1,7 +1,7 @@
 server:
   port: 8070
 
-eureka:
+isieshopeurekaserver:
   instance:
     hostname: localhost
   client:
