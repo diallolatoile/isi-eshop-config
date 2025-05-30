@@ -1,12 +1,12 @@
 server:
   port: 8070
 
-isieshopeurekaserver:
+eureka:
   instance:
     hostname: localhost
   client:
     fetchRegistry: false
     registerWithEureka: false
     serviceUrl:
-      defaultZone: http://${isieshopeurekaserver.instance.hostname}:${server.port}/eureka/
+      defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
     
